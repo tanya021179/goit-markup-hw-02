@@ -1,0 +1,96 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-family: "Raleway", sans-serif;
+}
+ul,ol {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+button {
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
+}
+
+/* #region header */
+.header {}
+
+.nav {}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+}
+
+.logo-span {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #2e2f42;
+}
+
+.menu {}
+
+.menu-item {}
+
+.menu-link {
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.menu-link:hover,.menu-link:focus{
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #404bbf;
+}
+.address {}
+
+.address-list {}
+
+.address-item {}
+
+.address-link {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.address-link:hover,.address-link:focus{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #404bbf;
+}
+/* #endregion header */
+
+/* #region solutions */
+/* #endregion solutions */
+
+/* #region about */
+/* #endregion about */
+
+/* #region our team */
+/* #endregion our team */
+
+/* #region portfolio */
+/* #endregion portfolio */
+
+/* #region footer */
+/* #endregion footer */

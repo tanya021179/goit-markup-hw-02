@@ -118,12 +118,13 @@ button {
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
+        text-transform: capitalize;
         text-align: center;
         color: #2e2f42;
 }
 
 .team-list {
-    background-color: #fff;
+    background-color: #FFFFFF;
 }
 
 .team-title {
@@ -145,7 +146,6 @@ button {
 /* #endregion our team */
 
 /* #region portfolio */
-.section-portfolio {}
 
 .section-portfolio-title {
     font-weight: 700;
@@ -153,6 +153,7 @@ button {
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
+        text-transform: capitalize
         color: #2e2f42;
 }
 
